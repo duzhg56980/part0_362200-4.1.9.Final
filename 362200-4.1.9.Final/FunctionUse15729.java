@@ -1,0 +1,6 @@
+import io.netty.handler.codec.smtp.DefaultSmtpContent;
+public class FunctionUse15729 {
+public void funcUse() {
+DefaultSmtpContent defaultsmtpcontent = new DefaultSmtpContent();
+}
+}

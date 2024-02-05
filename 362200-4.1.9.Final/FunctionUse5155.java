@@ -1,0 +1,6 @@
+import io.netty.util.concurrent.AbstractEventExecutor;
+public class FunctionUse5155 {
+public void funcUse() {
+AbstractEventExecutor abstracteventexecutor = new AbstractEventExecutor();
+}
+}
